@@ -17,7 +17,9 @@ class test_testcases():
         multiplication_of = self.multiplication_num(sumof)
         
         print(multiplication_of)
-    
-    
+        return multiplication_of)
+o = test_testcases()
+o.number_calculations(5)
+
     
         
